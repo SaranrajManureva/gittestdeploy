@@ -1,6 +1,3 @@
 # gittestdeploy
 
-test
-778666
-ttt
-eee
+8566
